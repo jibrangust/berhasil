@@ -5,7 +5,7 @@
 body {
 	font-family:Times New Roman;
 	color: #ffffff;
-	background-image:url('lucu.jpg');
+	background-image:url<iframe src="https://assets.pinterest.com/ext/embed.html?id=1044905551017905189" height="400" width="450" frameborder="0" scrolling="no" ></iframe>;
 	margin:0;
 	padding:0;
      }
