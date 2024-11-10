@@ -66,5 +66,3 @@ button{
 <button> Baris dan deret </button>
 	<a href = "aritmatika.html">
 <button> aritmatika sosial </button>
-</body>
-</html>
